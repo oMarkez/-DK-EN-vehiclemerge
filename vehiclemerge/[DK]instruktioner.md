@@ -13,3 +13,4 @@ For at merge(samle) alle dine biler i en resource skal du:
 
 Så burde alle dine biler meget gerne blive samlet i en mappe :)
 
+-- Jeg har ikke lavet vehiclemerge, dog har ejeren af .exe filen ikke updated hans download link i over et år, derefter reposter jeg.
